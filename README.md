@@ -1,20 +1,26 @@
-### Hi there 👋, I'm Akshay Bharambe
+### Hi there 👋, I'm Kunal Taitkar
 
 _Software Developer_ at <a href="https://www.mkcl.org/" target="_blank"><b>MKCL</b></a>
 
-[![Twitter: Akshay Bharambe](https://img.shields.io/twitter/follow/akshaybharambe1?style=social)](https://twitter.com/akshaybharambe1)
-[![Linkedin: Akshay Bharambe](https://img.shields.io/badge/-akshaybharambe14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshaybharambe14/)](https://www.linkedin.com/in/akshaybharambe14/)
-[![GitHub Akshay Bharambe](https://img.shields.io/github/followers/akshaybharambe14?label=follow&style=social)](https://github.com/akshaybharambe14)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akshaybharambe14.visitor-badge)
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1rglvkci3Qo4cRjmJnOS7qhl5OazwE89X/view?usp=sharing)
+[![Twitter: Kunal Taitkar](https://img.shields.io/twitter/follow/kunal_taitkar?style=social)](https://twitter.com/kunal_taitkar)
+[![Linkedin: Kunal Taitkar](https://img.shields.io/badge/-Kunal%20Taitkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-taitkar-b8770ab2/)](https://www.linkedin.com/in/kunal-taitkar-b8770ab2/)
+[![GitHub Kunal Taitkar](https://img.shields.io/github/followers/kunaltaitkar?label=follow&style=socia)](https://github.com/kunaltaitkar)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kunaltaitkar.visitor-badge)
 
 ## About me
 
-I am a full time software developer from India. I have been working on a very diverse technology stack, touching various aspects of software development, deployment, and distributed systems. The technologies include Go, VueJS, JavaScript, MongoDB, Redis, DGraph, NGINX.
+* 3+ years of experience in product development and establishing system
 
-I am pretty good at Golang. I Love building scalable, robust, concurrent real-world applications with best-suited paradigms and idioms present in the language. I am Good in picking up new skills and working with technologies.
+* Skilled in building scalable, robust, and maintainable applications.
 
-Currently, I am working to excel in acquired skills. I am also interested in cloud native technologies and system design.
+* Proficient in building servers and API using REST and HTTP/JSON (Golang)
+  
+* A proven track record with identifying underperforming backend services and optimizing them to reduce
+  memory consumption and improve speed
+
+* Provide input to architect on development solutions
+
+* Not bounded to any technology stack
 
 ### Proficient
 
@@ -29,28 +35,14 @@ Currently, I am working to excel in acquired skills. I am also interested in clo
 <code><a href="https://kubernetes.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
 
 ### Know about
-
-<code><a href="https://dgraph.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/dgraphio/dgraphio-icon.svg"></a></code>
-<code><a href="https://redis.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></a></code>
+<code><a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></a></code> &nbsp;
+<code><a href="https://www.rabbitmq.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></a></code> &nbsp;
 <code><a href="https://www.nginx.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></a></code>
 
 ### Interested In
 
 <code><a href="https://cloud.google.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 
-Feel free to connect with me. I am always open for interesting technical discussions. Lets contribute instead of competing with each other.
 
-<!--
-**akshaybharambe14/akshaybharambe14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
