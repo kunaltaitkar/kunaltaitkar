@@ -33,6 +33,7 @@ _Principal Engineer - I_ at <a href="https://www.connectwise.com/" target="_blan
 <code><a href="https://grpc.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="\_blank"><img height="100" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
 ### Know about
 <code><a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></a></code> &nbsp;
