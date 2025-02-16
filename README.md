@@ -9,7 +9,7 @@ _Principal Engineer - I_ at <a href="https://www.connectwise.com/" target="_blan
 
 ## About me
 
-* 5+ years of experience in product development and establishing system
+* 7+ years of experience in product development and establishing system
 
 * Skilled in building scalable, robust, and maintainable applications.
 
